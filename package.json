@@ -38,11 +38,11 @@
     "performance"
   ],
   "dependencies": {
-    "alfy": "^0.6.0",
+    "alfy": "^0.10.0",
     "repeating": "^3.0.0"
   },
   "devDependencies": {
-    "alfy-test": "^0.3.0",
+    "alfy-test": "^0.4.0",
     "ava": "*",
     "xo": "*"
   }
